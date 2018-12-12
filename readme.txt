@@ -1,2 +1,3 @@
 Git are 6 dev/dev2 is a version control system.
-Git is free software ThisConflict.
+<<<<<<< HEAD
+Git is free software don't fight.
